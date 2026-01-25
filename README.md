@@ -65,6 +65,11 @@ RMSE: 3620
 MAPE: 7.7%
 Significant improvement over Linear Regression
 
+Random Forest Regressor (Best Model)
+RMSE: 2824
+MAPE: 7.3%
+Best performing model with lowest error metrics
+
 
 **Results**
 
